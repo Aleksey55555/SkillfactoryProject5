@@ -1,9 +1,9 @@
 # PROJECT-5. Задача регрессии
 
-Данные на платформе [*Kaggle*]([https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view?usp=sharing](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview)).  
+Данные на платформе [*Kaggle*](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview).  
 Файлы с OSRM данными:  
-[*train*]([https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view?usp=sharing](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing))  
-[*test*]([https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view?usp=sharing](https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing))
+[*train*](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing)  
+[*test*](https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing)
 
 ## Содержание
 [1. Описание](#описание)
